@@ -26,12 +26,18 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Enzo-rbt0">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Enzo-rbt0&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-rbt0&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Enzo-rbt0&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-rbt0&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
