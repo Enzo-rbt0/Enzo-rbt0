@@ -1,7 +1,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Enzo-rbt0&color=006bed)
 
-## Sobre mim
+## About Me
 
 - ✨️ Cursando Análise e Desenvolvimento de Sistemas - 3º Semestre  
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software  
